@@ -19,13 +19,6 @@
 
 ---
 
-### 🛠️ Projetos em destaque:
-
-- 🛒 [**Comparador de Preços de Supermercados**](https://github.com/Joao2003santos/comparador-precos-api)  
-  Uma API que compara os preços de produtos entre os mercados de Marília-SP usando Python + Flask.
-
----
-
 ### 📫 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-santos-97bb06217/)
